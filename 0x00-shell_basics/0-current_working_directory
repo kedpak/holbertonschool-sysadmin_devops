@@ -1,3 +1,4 @@
 #!/bin/bash
-$ echo $pwn
-chmod u+x file
+cd
+pwd
+
