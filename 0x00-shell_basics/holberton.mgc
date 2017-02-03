@@ -1,2 +1,3 @@
 #!/bin/bash
-0 string/[cCtb]* HOLBERTON
+0 string HOLBERTON
+!:mime Holberton
